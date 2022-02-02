@@ -9,6 +9,8 @@ const Home: NextPage = () => {
     <div className='flex flex-col items-center bg-[#5d5f71] min-h-screen text-[#e7e6e3]'>
       <Head>
         <title>Short24</title>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4341671963296463"
+          crossOrigin='anonymous'></script>
       </Head>
       <Navbar />
       <div className='flex-grow self-center'>
